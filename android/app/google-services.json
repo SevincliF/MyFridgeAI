@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234192866279",
+    "project_id": "fitmeal-app-cc803",
+    "storage_bucket": "fitmeal-app-cc803.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234192866279:android:236c3c5d51941a8df2cb42",
+        "android_client_info": {
+          "package_name": "com.myfridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7dY_5RRztRFc1jq8cKLFZIYLoZDnogxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
